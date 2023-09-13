@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sameersahu0
+- 👋 Hi, I’m Sameer sahu
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently pursuing my B.Tech degree
 - 💞️ I’m looking to collaborate on frontned projects
